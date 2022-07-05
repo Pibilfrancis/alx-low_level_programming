@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * _putchar - writes the character c to stdout
+ * main - prints putchar
+ *
+ * Retun: always 0
+ */
 int main(void)
 {
 	_putchar('_');
